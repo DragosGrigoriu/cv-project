@@ -18,9 +18,10 @@ body{
     margin-top: 40px;
     height: auto;
     border-radius: 100%;
-}git
+}
 .contacts-container{
     padding-left: 40px;
+    margin-top: 40px;
 }
 .contacts-header{
     color:#161D2A;
@@ -36,7 +37,6 @@ body{
     line-height: 24px;
     letter-spacing: 0em;
     text-align: left;
-
 }
 .contacts-phone{
     font-size: 14px;
